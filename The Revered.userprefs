@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Items\BaseWeapon.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Items\BaseEquipment.cs" Line="29" Column="21" />
+      <File FileName="Assets\Scripts\Items\BasePotion.cs" Line="24" Column="21" />
+      <File FileName="Assets\Scripts\Items\BaseScroll.cs" Line="6" Column="28" />
+      <File FileName="Assets\Scripts\Items\BaseWeapon.cs" Line="18" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
